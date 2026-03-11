@@ -118,12 +118,11 @@ className="hero-visual"
 style={{
 width: "94%",
 justifySelf: "end",
-display: "flex",
-flexDirection: "column",
-gap: 8,
+position: "relative",
+marginBottom: 92,
 }}
 >
-<div className="hero-logo-panel" style={{ aspectRatio: "1.82 / 1" }}>
+<div className="hero-logo-panel" style={{ aspectRatio: "1.9 / 1" }}>
 <Image
 src="/projects/sanaa-hero-betongplatta-gjutning.jpg"
 alt="Betongplatta under gjutning"
@@ -137,19 +136,22 @@ style={{ objectFit: "cover" }}
 <div
 className="hero-quote"
 style={{
-width: "100%",
-padding: "12px 22px 10px",
+position: "absolute",
+left: 0,
+right: 0,
+bottom: -72,
+padding: "14px 24px 12px",
 boxSizing: "border-box",
 }}
 >
 <strong>UTFÖRDA ARBETEN</strong>
 
-<p style={{ marginTop: 10, lineHeight: 1.5 }}>
+<p style={{ marginTop: 12, lineHeight: 1.5 }}>
 Bilderna på sidan kommer från riktiga arbeten inom invändiga
 renoveringar, badrum, våtrum och tak.
 </p>
 
-<p style={{ marginTop: 12, lineHeight: 1.5 }}>
+<p style={{ marginTop: 14, lineHeight: 1.5 }}>
 Vi vill visa verkliga exempel redan från start för att ge en tydligare
 bild av vår nivå, vår bredd och hur vi arbetar i praktiken.
 </p>
