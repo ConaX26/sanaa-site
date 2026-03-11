@@ -107,7 +107,6 @@ Se projekt
 </div>
 
 <div className="hero-meta">
-<span>{site.contact.area}</span>
 <span>
 Uppdrag över hela Sverige • För privat, företag och offentlig sektor
 </span>
