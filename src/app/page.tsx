@@ -247,8 +247,7 @@ style={{ objectFit: "cover" }}
 <h2>Så ser arbetet ut i praktiken</h2>
 </div>
 <p className="section-side-text">
-Förutom färdiga resultat vill vi också visa delar av processen.
-Det ger en bättre bild av hantverket bakom slutleveransen.
+Här visar vi exempel från verkliga arbeten och miljöer för att ge en tydligare bild av hur SANAA arbetar i praktiken — från förarbete och konstruktion till färdigt resultat.
 </p>
 </div>
 
