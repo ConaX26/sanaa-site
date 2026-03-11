@@ -835,28 +835,3 @@ width: 220px;
     flex-direction: column;
   }
 }
-.hero-quote {
-width: 100%;
-margin-left: auto;
-margin-top: 16px;
-padding: 10px 28px 8px;
-box-sizing: border-box;
-min-height: unset !important;
-height: auto !important;
-display: block !important;
-}
-
-.hero-quote strong {
-display: block;
-margin: 0;
-line-height: 1.1;
-}
-
-.hero-quote p {
-margin: 12px 0 0 0 !important;
-line-height: 1.45 !important;
-}
-
-.hero-quote p:last-child {
-margin-bottom: 0 !important;
-}
