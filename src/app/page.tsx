@@ -85,9 +85,7 @@ className="header-logo"
 <div className="hero-copy">
 <p className="eyebrow">Bygg • Renovering • Projekt</p>
 
-<h1>
-Bygg och renovering med kvalitet, struktur och rätt utförande
-</h1>
+<h1>Bygg och renovering med kvalitet, struktur och rätt utförande</h1>
 
 <p className="lead">
 SANAA BYGG AB är en bygg- och renoveringspartner för privatpersoner,
@@ -114,10 +112,6 @@ Uppdrag över hela Sverige • För privat, företag och offentlig sektor
 </div>
 
 <div className="hero-visual">
-position: "relative",
-marginBottom: 92,
-}}
->
 <div className="hero-logo-panel">
 <Image
 src="/projects/sanaa-hero-betongplatta-gjutning.jpg"
@@ -130,34 +124,22 @@ style={{ objectFit: "cover" }}
 </div>
 
 <div className="hero-quote">
-style={{
-position: "absolute",
-left: 0,
-right: 0,
-bottom: -190,
-width: "100%",
-maxWidth: "100%",
-margin: 0,
-padding: "14px 24px 12px",
-boxSizing: "border-box",
-}}
->
 <strong>UTFÖRDA ARBETEN</strong>
 
-<p style={{ marginTop: 12, lineHeight: 1.5 }}>
+<p>
 Bilderna på sidan kommer från riktiga arbeten inom invändiga
 renoveringar, badrum, våtrum och tak.
 </p>
 
-<p style={{ marginTop: 14, lineHeight: 1.5 }}>
-Vi vill visa verkliga exempel redan från start för att ge en tydligare
-bild av vår nivå, vår bredd och hur vi arbetar i praktiken.
+<p>
+Vi vill visa verkliga exempel redan från start för att ge en
+tydligare bild av vår nivå, vår bredd och hur vi arbetar i
+praktiken.
 </p>
 </div>
 </div>
 </div>
 </section>
-
 
 <section className="section section-light">
 <div className="container narrow">
@@ -269,7 +251,9 @@ style={{ objectFit: "cover" }}
 <h2>Så ser arbetet ut i praktiken</h2>
 </div>
 <p className="section-side-text">
-Här visar vi exempel från verkliga arbeten och miljöer för att ge en tydligare bild av hur SANAA arbetar i praktiken — från förarbete och konstruktion till färdigt resultat.
+Här visar vi exempel från verkliga arbeten och miljöer för att ge en
+tydligare bild av hur SANAA arbetar i praktiken — från förarbete och
+konstruktion till färdigt resultat.
 </p>
 </div>
 
@@ -368,7 +352,9 @@ förtroende genom hela processen.
 <p className="section-label">Begär offert</p>
 <h2>Berätta om projektet så kontaktar vi dig</h2>
 <p className="section-text" style={{ marginTop: 18 }}>
-Vi börjar alltid med att förstå projektet, nuläget och vad du vill uppnå. Du kan välja att bara bli kontaktad först eller lämna mer underlag direkt för en snabbare första bedömning.
+Vi börjar alltid med att förstå projektet, nuläget och vad du vill
+uppnå. Du kan välja att bara bli kontaktad först eller lämna mer
+underlag direkt för en snabbare första bedömning.
 </p>
 
 <div style={{ marginTop: "auto" }}>
@@ -379,15 +365,24 @@ Vi börjar alltid med att förstå projektet, nuläget och vad du vill uppnå. D
 </div>
 <div className="contact-panel-row">
 <span>1</span>
-<strong>Välj om du vill ha en första kontakt direkt eller lämna mer underlag redan nu</strong>
+<strong>
+Välj om du vill ha en första kontakt direkt eller lämna mer
+underlag redan nu
+</strong>
 </div>
 <div className="contact-panel-row">
 <span>2</span>
-<strong>Bilder, nuläge och önskat resultat ger oss en tydligare första bild</strong>
+<strong>
+Bilder, nuläge och önskat resultat ger oss en tydligare första
+bild
+</strong>
 </div>
 <div className="contact-panel-row">
 <span>3</span>
-<strong>Vi går igenom projektet med dig innan prisbild eller offert lämnas</strong>
+<strong>
+Vi går igenom projektet med dig innan prisbild eller offert
+lämnas
+</strong>
 </div>
 </div>
 
