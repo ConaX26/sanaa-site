@@ -350,10 +350,7 @@ förtroende genom hela processen.
 <p className="section-label">Begär offert</p>
 <h2>Berätta om projektet så kontaktar vi dig</h2>
 <p className="section-text" style={{ marginTop: 18 }}>
-Vi kontaktar alltid dig för att gå igenom projektet innan offert
-lämnas. Vill du hellre bli kontaktad först går det bra, och vill du
-lämna mer information direkt ger det oftast en snabbare första
-bedömning.
+Vi börjar alltid med att förstå projektet, nuläget och vad du vill uppnå. Du kan välja att bara bli kontaktad först eller lämna mer underlag direkt för en snabbare första bedömning.
 </p>
 
 <div style={{ marginTop: "auto" }}>
@@ -364,15 +361,15 @@ bedömning.
 </div>
 <div className="contact-panel-row">
 <span>1</span>
-<strong>Välj om du vill bli kontaktad först eller fylla i mer direkt</strong>
+<strong>Välj om du vill ha en första kontakt direkt eller lämna mer underlag redan nu</strong>
 </div>
 <div className="contact-panel-row">
 <span>2</span>
-<strong>Mer information och bilder ger oftast snabbare återkoppling</strong>
+<strong>Bilder, nuläge och önskat resultat ger oss en tydligare första bild</strong>
 </div>
 <div className="contact-panel-row">
 <span>3</span>
-<strong>Vi går alltid igenom projektet med dig innan offert lämnas</strong>
+<strong>Vi går igenom projektet med dig innan prisbild eller offert lämnas</strong>
 </div>
 </div>
 

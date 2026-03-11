@@ -80,8 +80,7 @@ encType="multipart/form-data"
 <div className="quote-form-intro">
 <h3>Begär offert</h3>
 <p>
-Välj om du vill bli kontaktad först eller lämna mer underlag direkt
-för snabbare bedömning.
+Välj om du vill bli kontaktad först eller skicka mer underlag direkt. Ju tydligare underlag, desto snabbare kan vi göra en första bedömning.
 </p>
 </div>
 
@@ -103,7 +102,7 @@ onChange={() => setMode("contact-first")}
 <span className="mode-option-copy">
 <strong>Jag vill bli kontaktad först</strong>
 <small>
-Passar dig som vill prata igenom projektet innan du fyller i mer.
+För dig som vill ta en första dialog innan du skickar mer information.
 </small>
 </span>
 </label>
@@ -120,7 +119,7 @@ onChange={() => setMode("detailed")}
 />
 <span className="mode-option-copy">
 <strong>Jag vill fylla i mer information nu</strong>
-<small>Mer underlag och bilder ger ofta snabbare återkoppling.</small>
+<small>För dig som vill ge en tydligare bild direkt och få snabbare första återkoppling.</small>
 </span>
 </label>
 </div>
@@ -203,7 +202,7 @@ placeholder="Beskriv kort vad du behöver hjälp med."
 <div className="detailed-fields">
 <div className="detailed-fields-head">
 <h4>Mer underlag för snabbare bedömning</h4>
-<p>Fyll i det du kan nu. Resten går vi igenom tillsammans.</p>
+<p>Fyll i det du kan redan nu. Det hjälper oss att förstå omfattning, nivå och nästa steg.</p>
 </div>
 
 <div className="form-grid">
@@ -353,7 +352,7 @@ disabled={submitState === "submitting"}
 {submitState === "submitting" ? "Skickar..." : "Skicka offertförfrågan"}
 </button>
 <p className="quote-actions-note">
-Vi går alltid igenom projektet med dig innan offert lämnas.
+Vi går alltid igenom projektet med dig innan prisbild eller offert lämnas.
 </p>
 </div>
 
