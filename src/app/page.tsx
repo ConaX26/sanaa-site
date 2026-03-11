@@ -116,13 +116,13 @@ Uppdrag över hela Sverige • För privat, företag och offentlig sektor
 <div
 className="hero-visual"
 style={{
-width: "94%",
+width: "90%",
 justifySelf: "end",
 position: "relative",
 marginBottom: 92,
 }}
 >
-<div className="hero-logo-panel" style={{ aspectRatio: "1.9 / 1" }}>
+<div className="hero-logo-panel" style={{ aspectRatio: "2.2 / 1" }}>
 <Image
 src="/projects/sanaa-hero-betongplatta-gjutning.jpg"
 alt="Betongplatta under gjutning"
