@@ -129,12 +129,12 @@ style={{ objectFit: "cover" }}
 <div
 className="hero-quote"
 style={{
-gridColumn: "1 / -1",
+gridColumn: "2 / 3",
 justifySelf: "end",
 width: "100%",
-maxWidth: 760,
+maxWidth: 640,
 marginTop: 16,
-padding: "12px 28px 10px",
+padding: "12px 24px 10px",
 boxSizing: "border-box",
 }}
 >
