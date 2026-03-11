@@ -764,14 +764,14 @@ display: block;
 
 @media (min-width: 901px) {
 .hero-visual {
-margin-bottom: 138px;
+margin-bottom: 190px;
 }
 
 .hero-visual .hero-quote {
 position: absolute;
 left: 0;
 right: 0;
-bottom: -126px;
+bottom: -178px;
 width: 100%;
 max-width: 100%;
 margin: 0;
