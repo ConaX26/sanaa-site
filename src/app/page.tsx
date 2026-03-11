@@ -86,7 +86,7 @@ className="header-logo"
 <p className="eyebrow">Bygg • Renovering • Projekt</p>
 <h1>Bygg och renovering med kvalitet, struktur och rätt utförande</h1>
 <p className="lead">
-SANAA är en modern bygg- och renoveringspartner för privatpersoner, företag, fastighetsägare och offentliga beställare över hela Sverige. Vi tar oss an både mindre renoveringar och större entreprenadnära uppdrag där tydlighet, struktur och rätt utförande står i centrum.
+SANAA BYGG AB är en bygg- och renoveringspartner för privatpersoner, företag, fastighetsägare och offentliga beställare över hela Sverige. Vi arbetar med allt från invändiga renoveringar till mer entreprenadnära uppdrag där struktur, tydlig dialog och rätt utförande är avgörande.
 </p>
 
 <div className="hero-actions">
@@ -100,7 +100,7 @@ Se projekt
 
 <div className="hero-meta">
 <span>{site.contact.area}</span>
-<span>Seriös partner för privata och professionella uppdrag</span>
+<span>Uppdrag över hela Sverige • För privat, företag och offentlig sektor</span>
 </div>
 </div>
 
@@ -127,13 +127,10 @@ padding: "20px 22px",
 >
 <strong>Utförda arbeten</strong>
 <p style={{ marginTop: 12 }}>
-Bilderna på sidan kommer från riktiga arbeten inom invändiga
-renoveringar, badrum, våtrum och tak.
+Så ser arbetet ut i praktiken
 </p>
 <p style={{ marginTop: 18 }}>
-Vi vill visa verkliga exempel redan från start för att ge en
-tydligare bild av vår nivå, vår bredd och hur vi arbetar i
-praktiken.
+Här visar vi exempel från verkliga arbeten och miljöer för att ge en tydligare bild av hur SANAA arbetar i praktiken — från förarbete och konstruktion till färdigt resultat.
 </p>
 </div>
 </div>
