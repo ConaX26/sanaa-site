@@ -832,3 +832,26 @@ width: 220px;
     flex-direction: column;
   }
 }
+html,
+body {
+overflow-x: clip;
+}
+
+.hero {
+overflow: hidden;
+}
+
+.hero-grid {
+grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+align-items: start;
+}
+
+.hero-copy,
+.hero-visual {
+min-width: 0;
+}
+
+.hero-logo-panel,
+.hero-quote {
+width: 100%;
+}
