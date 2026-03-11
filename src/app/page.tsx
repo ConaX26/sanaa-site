@@ -121,16 +121,19 @@ className="hero-quote"
 style={{
 width: "100%",
 marginLeft: "auto",
-padding: "14px 28px",
+marginTop: 16,
+padding: "10px 30px 12px",
 boxSizing: "border-box",
 }}
 >
 <strong>Utförda arbeten</strong>
-<p style={{ marginTop: 10 }}>
+<p style={{ marginTop: 8 }}>
 Så ser arbetet ut i praktiken
 </p>
-<p style={{ marginTop: 14 }}>
-Här visar vi exempel från verkliga arbeten och miljöer för att ge en tydligare bild av hur SANAA arbetar i praktiken — från förarbete och konstruktion till färdigt resultat.
+<p style={{ marginTop: 10, lineHeight: 1.45 }}>
+Här visar vi exempel från verkliga arbeten och miljöer för att ge en
+tydligare bild av hur SANAA arbetar i praktiken — från förarbete och
+konstruktion till färdigt resultat.
 </p>
 </div>
 </div>
