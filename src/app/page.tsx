@@ -141,7 +141,7 @@ Här visar vi exempel från verkliga arbeten och miljöer för att ge en tydliga
 <div className="container narrow">
 <p className="section-label">Positionering</p>
 <h2>En seriös byggpartner för både mindre och större uppdrag</h2>
-<p className="section-text">
+<p className="section-text" style={{ marginTop: 18 }}>
 Vi på SANAA arbetar med bygg- och renoveringsprojekt där helheten är
 lika viktig som detaljerna. Oavsett om det gäller invändig
 renovering, måleri, ombyggnation eller större entreprenadnära arbeten
@@ -299,7 +299,7 @@ style={{ objectFit: "cover" }}
 <div>
 <p className="section-label">Förtroende</p>
 <h2>Det som ska känneteckna SANAA</h2>
-<p className="section-text">
+<p className="section-text" style={{ marginTop: 18 }}>
 Vi tror på tydlighet, ansvar och kvalitet i varje del av processen.
 Ett bra resultat handlar inte bara om själva utförandet, utan också
 om planering, kommunikation och förmågan att leverera på rätt nivå.
