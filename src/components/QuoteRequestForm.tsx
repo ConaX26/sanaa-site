@@ -352,7 +352,7 @@ disabled={submitState === "submitting"}
 {submitState === "submitting" ? "Skickar..." : "Skicka offertförfrågan"}
 </button>
 <p className="quote-actions-note">
-Vi går alltid igenom projektet med dig innan prisbild eller offert lämnas.
+Vi går igenom projektet med dig innan prisbild eller offert lämnas
 </p>
 </div>
 
