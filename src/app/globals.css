@@ -831,27 +831,62 @@ width: 220px;
   .footer-inner {
     flex-direction: column;
   }
-}
-html,
-body {
-overflow-x: clip;
-}
-
-.hero {
-overflow: hidden;
-}
-
-.hero-grid {
-grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-align-items: start;
-}
-
-.hero-copy,
 .hero-visual {
-min-width: 0;
+width: 86%;
+max-width: 760px;
+justify-self: end;
+margin-left: auto;
+position: relative;
 }
 
-.hero-logo-panel,
-.hero-quote {
+.hero-logo-panel {
 width: 100%;
+aspect-ratio: 2.05 / 1;
+}
+
+.hero-quote {
+background: rgba(255, 255, 255, 0.08);
+border: 1px solid rgba(255, 255, 255, 0.08);
+border-radius: 28px;
+}
+
+@media (min-width: 901px) {
+.hero-visual {
+margin-bottom: 96px;
+}
+
+.hero-visual .hero-quote {
+position: absolute;
+left: 0;
+right: 0;
+bottom: -88px;
+width: 100%;
+max-width: 100%;
+margin: 0;
+padding: 14px 24px 12px;
+box-sizing: border-box;
+}
+}
+
+@media (max-width: 900px) {
+.hero-grid {
+grid-template-columns: 1fr !important;
+}
+
+.hero-visual {
+width: 100%;
+max-width: none;
+justify-self: stretch;
+margin-left: 0;
+margin-bottom: 0;
+}
+
+.hero-visual .hero-quote {
+position: static;
+width: 100%;
+max-width: 100%;
+margin-top: 14px;
+padding: 14px 20px 12px;
+box-sizing: border-box;
+}
 }
