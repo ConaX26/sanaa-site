@@ -116,9 +116,11 @@ Uppdrag över hela Sverige • För privat, företag och offentlig sektor
 <div
 className="hero-visual"
 style={{
-width: "100%",
+width: "86%",
+maxWidth: 760,
 justifySelf: "end",
 position: "relative",
+marginLeft: "auto",
 marginRight: 0,
 marginBottom: 92,
 }}
