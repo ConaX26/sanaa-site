@@ -119,10 +119,10 @@ style={{ objectFit: "cover" }}
 <div
 className="hero-quote"
 style={{
-maxWidth: 520,
-width: "86%",
+maxWidth: 580,
+width: "92%",
 marginLeft: "auto",
-padding: "20px 22px",
+padding: "18px 28px",
 }}
 >
 <strong>Utförda arbeten</strong>
