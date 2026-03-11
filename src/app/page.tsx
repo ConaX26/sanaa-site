@@ -84,9 +84,17 @@ className="header-logo"
 <div className="container hero-grid">
 <div className="hero-copy">
 <p className="eyebrow">Bygg • Renovering • Projekt</p>
-<h1>Bygg och renovering med kvalitet, struktur och rätt utförande</h1>
+
+<h1>
+Bygg och renovering med kvalitet, struktur och rätt utförande
+</h1>
+
 <p className="lead">
-SANAA BYGG AB är en bygg- och renoveringspartner för privatpersoner, företag, fastighetsägare och offentliga beställare över hela Sverige. Vi arbetar med allt från invändiga renoveringar till mer entreprenadnära uppdrag där struktur, tydlig dialog och rätt utförande är avgörande.
+SANAA BYGG AB är en bygg- och renoveringspartner för privatpersoner,
+företag, fastighetsägare och offentliga beställare över hela Sverige.
+Vi arbetar med allt från invändiga renoveringar till mer
+entreprenadnära uppdrag där struktur, tydlig dialog och rätt utförande
+är avgörande.
 </p>
 
 <div className="hero-actions">
@@ -100,7 +108,9 @@ Se projekt
 
 <div className="hero-meta">
 <span>{site.contact.area}</span>
-<span>Uppdrag över hela Sverige • För privat, företag och offentlig sektor</span>
+<span>
+Uppdrag över hela Sverige • För privat, företag och offentlig sektor
+</span>
 </div>
 </div>
 
@@ -115,8 +125,20 @@ sizes="(max-width: 1024px) 100vw, 42vw"
 style={{ objectFit: "cover" }}
 />
 </div>
+</div>
 
-<div className="hero-quote">
+<div
+className="hero-quote"
+style={{
+gridColumn: "1 / -1",
+justifySelf: "end",
+width: "100%",
+maxWidth: 760,
+marginTop: 16,
+padding: "12px 28px 10px",
+boxSizing: "border-box",
+}}
+>
 <strong>UTFÖRDA ARBETEN</strong>
 
 <p>
@@ -130,8 +152,8 @@ bild av vår nivå, vår bredd och hur vi arbetar i praktiken.
 </p>
 </div>
 </div>
-</div>
 </section>
+
 
 <section className="section section-light">
 <div className="container narrow">
