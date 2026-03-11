@@ -122,20 +122,23 @@ style={{
 width: "100%",
 marginLeft: "auto",
 marginTop: 16,
-padding: "10px 30px 12px",
+padding: "14px 30px 14px",
 boxSizing: "border-box",
 }}
 >
-<strong>Utförda arbeten</strong>
-<p style={{ marginTop: 8 }}>
-Så ser arbetet ut i praktiken
+<strong>UTFÖRDA ARBETEN</strong>
+
+<p style={{ marginTop: 16, lineHeight: 1.55 }}>
+Bilderna på sidan kommer från riktiga arbeten inom invändiga
+renoveringar, badrum, våtrum och tak.
 </p>
-<p style={{ marginTop: 10, lineHeight: 1.45 }}>
-Här visar vi exempel från verkliga arbeten och miljöer för att ge en
-tydligare bild av hur SANAA arbetar i praktiken — från förarbete och
-konstruktion till färdigt resultat.
+
+<p style={{ marginTop: 18, lineHeight: 1.55 }}>
+Vi vill visa verkliga exempel redan från start för att ge en tydligare
+bild av vår nivå, vår bredd och hur vi arbetar i praktiken.
 </p>
 </div>
+
 </div>
 </div>
 </section>
