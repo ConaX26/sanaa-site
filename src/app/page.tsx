@@ -116,29 +116,19 @@ style={{ objectFit: "cover" }}
 />
 </div>
 
-<div
-className="hero-quote"
-style={{
-width: "100%",
-marginLeft: "auto",
-marginTop: 16,
-padding: "14px 30px 14px",
-boxSizing: "border-box",
-}}
->
+<div className="hero-quote">
 <strong>UTFÖRDA ARBETEN</strong>
 
-<p style={{ marginTop: 16, lineHeight: 1.55 }}>
+<p>
 Bilderna på sidan kommer från riktiga arbeten inom invändiga
 renoveringar, badrum, våtrum och tak.
 </p>
 
-<p style={{ marginTop: 18, lineHeight: 1.55 }}>
+<p>
 Vi vill visa verkliga exempel redan från start för att ge en tydligare
 bild av vår nivå, vår bredd och hur vi arbetar i praktiken.
 </p>
 </div>
-
 </div>
 </div>
 </section>
