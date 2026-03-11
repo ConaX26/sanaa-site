@@ -86,10 +86,7 @@ className="header-logo"
 <p className="eyebrow">Bygg • Renovering • Projekt</p>
 <h1>Bygg och renovering med kvalitet, struktur och rätt utförande</h1>
 <p className="lead">
-SANAA är en modern partner inom bygg och renovering för
-privatpersoner, företag, fastighetsägare och offentliga beställare
-över hela Sverige. Vi arbetar med både mindre uppdrag och större
-projekt där tydlighet, kvalitet och resultat står i centrum.
+SANAA är en modern bygg- och renoveringspartner för privatpersoner, företag, fastighetsägare och offentliga beställare över hela Sverige. Vi tar oss an både mindre renoveringar och större entreprenadnära uppdrag där tydlighet, struktur och rätt utförande står i centrum.
 </p>
 
 <div className="hero-actions">
@@ -103,7 +100,7 @@ Se projekt
 
 <div className="hero-meta">
 <span>{site.contact.area}</span>
-<span>Seriös partner för privata och professionella uppdrag i hela Sverige</span>
+<span>Seriös partner för privata och professionella uppdrag</span>
 </div>
 </div>
 
@@ -413,7 +410,7 @@ Modern bygg- och renoveringspartner för privatpersoner, företag,
 fastighetsägare och större beställare över hela Sverige.
 </p>
 <p style={{ marginTop: 14 }}>
-SANNA BYGG AB
+SANAA BYGG AB
 <br />
 Org.nr: 559572-3924
 <br />

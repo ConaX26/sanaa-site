@@ -91,9 +91,9 @@ text: "Målet är inte bara ett färdigt arbete, utan ett resultat som fungerar 
 ] as const;
 
 export const trustPoints = [
-"Professionellt genomförande",
-"Tydlig dialog",
-"Ordning i processen",
-"Kvalitet i detaljerna",
-"Lösningsorienterat arbetssätt",
+"SANAA BYGG AB • Org.nr 559572-3924",
+"Godkänd F-skatt • VAT: SE559572392401",
+"Uppdrag över hela Sverige",
+"För privatpersoner, företag och offentliga beställare",
+"Tydlig dialog, ordning i processen och kvalitet i utförandet",
 ] as const;
