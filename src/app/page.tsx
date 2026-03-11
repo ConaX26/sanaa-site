@@ -131,10 +131,10 @@ className="hero-quote"
 style={{
 gridColumn: "2 / 3",
 justifySelf: "end",
-width: "100%",
-maxWidth: 620,
-marginTop: -48,
-padding: "12px 24px 10px",
+width: "88%",
+maxWidth: 760,
+marginTop: -72,
+padding: "12px 26px 10px",
 boxSizing: "border-box",
 }}
 >
