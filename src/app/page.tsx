@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import Image from "next/image";
 import QuoteRequestForm from "@/components/QuoteRequestForm";
 import {
@@ -11,6 +12,9 @@ trustPoints,
 
 function ContactLinks() {
 const { phone, email } = site.contact;
+const phoneHref = phone
+? `tel:+46${phone.replace(/\D/g, "").replace(/^0/, "")}`
+: "";
 
 if (!phone && !email) {
 return null;
@@ -19,7 +23,7 @@ return null;
 return (
 <div className="contact-links">
 {phone ? (
-<a className="button button-primary" href={`tel:${phone.replace(/\s+/g, "")}`}>
+<a className="button button-primary" href={phoneHref}>
 Ring {phone}
 </a>
 ) : null}
@@ -399,7 +403,11 @@ lämnas
 </div>
 <div className="contact-panel-row">
 <span>Telefon</span>
-<strong>{site.contact.phone}</strong>
+<strong>
+<a href={`tel:+46${site.contact.phone.replace(/\D/g, "").replace(/^0/, "")}`}>
+{site.contact.phone}
+</a>
+</strong>
 </div>
 </div>
 </div>

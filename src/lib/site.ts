@@ -5,7 +5,7 @@ title: "SANAA BYGG & RENOVERING",
 description:
 "Modern bygg- och renoveringspartner för privatpersoner, företag, fastighetsägare och större beställare över hela Sverige.",
 contact: {
-phone: "0729446263",
+phone: "0729446317",
 email: "info@sanaabygg.se",
 area: "Uppdrag över hela Sverige",
 },
